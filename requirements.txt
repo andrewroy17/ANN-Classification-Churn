@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+requests
+flask
+sqlalchemy
+pytest
+tensorflow
+keras
+jupyter
+streamlit
+pickle
+sklearn
